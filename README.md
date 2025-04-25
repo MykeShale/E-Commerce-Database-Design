@@ -83,6 +83,10 @@ The database schema is visualized in the ERD diagram below:
 - Role:  Member
 - GitHub: [@Francis-2030](https://github.com/Francis-2030)
 
+#### Matukane Bless
+
+- *Role*: Member
+- *GitHub*: [@MatukaneBless](https://github.com/MatukaneBless)
 
 
 ## 📝 License

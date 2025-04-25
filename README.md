@@ -38,14 +38,9 @@ The database is implemented in *MySQL* and adheres to best practices for normali
    
 
 ---
+               
 
-
-## E-Commerce ERD Diagram.drawio   
-[e-commerce.sql](ERD/E-Commerce ERD Diagram.drawio)                  
-
-# Main SQL script for database creation
-Tables/                         
-# Individual SQL scripts for each table
+## List of tables in the Database
     ecommerce_attribute_category.sql
     ecommerce_attribute_type.sql
     ecommerce_brand.sql
@@ -63,7 +58,7 @@ Tables/
 ## 📊 ERD Diagram
 The database schema is visualized in the ERD diagram below:
 
-<img alt="ERD Diagram" src="/ERD/E-Commerce ERD Diagram.drawio">
+<img alt="ERD Diagram" src="/ERD/E-Commerce ERD Diagram.drawio.png">
 
 
 ## 👥 Contributors
